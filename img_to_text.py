@@ -3,6 +3,7 @@ import google.generativeai as genai
 # pip install -q -U google-generativeai
 
 from PIL import Image
+# pip install -q -U pillow
 
 class GeminiImg:
     def __init__(self, model_name):
